@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">videonetics</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="dashboard_array">     
+         <item>Home</item>  
+        <item>Group By Video</item>
+        <item>Site Map</item>
+        <item>Video By Location</item>
+        <item>Snap Upload</item>
+         <item>Log out</item>
+       
+  </string-array>
+  
+    <string name="wan_error">!can\'t connect the server usinf WAN connection \n 
+        - Wan connectivity may not have established. \n
+        - Public ip of server is incorrectly set.\n
+        - Please ensure that WAN is ON in the device. \n
+        - Check mobile client settings in the device
+        </string>
+    <string name="local_error">!can\'t connect the server usinf wifi or LAN \n 
+        - wifi or LAN may be disconnected. \n
+        - Local IP of server is incorrectly set.\n
+        - Please ensure that wifi or LAN is ON in the device. \n
+        - Check mobile client settings in the device</string>
+    <string name="loading_msg">Please wait...</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <color name="golden">#4f3128</color>
+    <color name="navigation_bar">#513125</color>
+    <color name="menu_bg">#39221a</color>
+    <color name="black">#000000</color>
+    <string name="no_location_found">No such location found</string>
+</resources>

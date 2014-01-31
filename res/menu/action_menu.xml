@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/ptz"
+        android:icon="@drawable/ic_ptz"
+        android:showAsAction="ifRoom"
+        android:title="button">
+    </item>
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/more_option"
+        android:showAsAction="ifRoom"
+        android:title="button">
+    </item>
+
+</menu>
